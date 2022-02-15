@@ -26,7 +26,13 @@
 - ⚡ Fun fact **Infinite is My Natural State.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Alexnet Theory](https://dipesg.github.io/All-AI/markdown/2022/01/30/alexnet1.html)
+- [Omicron Sentiment Analysis](https://dipesg.github.io/All-AI/2022/01/30/emotion.html)
+- [Data Augmentation using Augmentor](https://dipesg.github.io/All-AI/2022/01/30/Augmentor.html)
+- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/01/30/alexnetcode.html)
+- [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/01/30/Timeseriescovid19.html)
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
