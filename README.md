@@ -24,6 +24,7 @@
 - 📫 How to reach me **dipeshsilwal31@gmail.com**
 
 - ⚡ Fun fact **Infinite is My Natural State.**
+- :code:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
