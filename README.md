@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2.**
 
-- 👨‍💻 All of my projects are available at [https://dipeshsilwal31.wixsite.com/dipesh-silwal](https://dipeshsilwal31.wixsite.com/dipesh-silwal)
-
 - 📝 I regularly write articles on [https://dipesg.github.io/All-AI/](https://dipesg.github.io/All-AI/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Data Science.**
