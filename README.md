@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **WareHouse Apparel Detector**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2.**
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2.**
 
 - 📝 I regularly write articles on [https://dipesg.github.io/All-AI/](https://dipesg.github.io/All-AI/)
 
