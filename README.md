@@ -23,8 +23,14 @@
 
 - 📫 How to reach me **dipeshsilwal31@gmail.com**
 
-- ⚡ Fun fact **Infinite is My Natural State.**
-- :code:
+- ⚡ Fun fact **Infinite is My Natural State**
+- :computer: **CODING CONVENTION THAT I FOLLOW**
+  - **APPLY LOGGING FOR EACH AND EVERY PIPELINES**
+  - **USE EXCEPTION HANDLING FOR PROPERLY CATCHING AND HANDLING EXCEPTION**
+  - **INSTEAD OF USING NOTEBOOK I PREFER OOPS PROGRAMMING**
+  - **STRICTLY FOLLOW NAMING CONVENTION**
+  - **MODULARIZATION IN CODE**
+  - 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
