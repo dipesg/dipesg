@@ -31,11 +31,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Omicron Sentiment Analysis](https://dipesg.github.io/All-AI/2022/03/26/emotion.html)
-- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/03/26/alexnetcode.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/03/26/VGG.html)
-- [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/03/26/Timeseriescovid19.html)
-- [Step By Step Code Implementation of **Keras Tuner.**](https://dipesg.github.io/All-AI/2022/03/26/KerasTuner.html)
+- [Interview Preparation of Linear Regression Model.](https://dipesg.github.io/All-AI/markdown/2022/03/30/LR.html)
+- [Step By Step Code Implementation of **Keras Tuner.**](https://dipesg.github.io/All-AI/2022/03/29/KerasTuner.html)
+- [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/03/29/Timeseriescovid19.html)
+- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/03/29/VGG.html)
+- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/03/29/alexnetcode.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
