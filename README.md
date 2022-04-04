@@ -31,7 +31,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Logistic](https://dipesg.github.io/All-AI/2022/04/04/logistic.html)
+- [Interview Preparation of Logistic Regression.](https://dipesg.github.io/All-AI/markdown/2022/04/04/logistic.html)
 - [Step By Step Code Implementation of **Keras Tuner.**](https://dipesg.github.io/All-AI/2022/04/03/KerasTuner.html)
 - [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/04/03/Timeseriescovid19.html)
 - [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/03/VGG.html)
