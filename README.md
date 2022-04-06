@@ -31,11 +31,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [All About Regression Metrics.](https://dipesg.github.io/All-AI/markdown/2022/04/06/reg-metrics.html)
 - [All About Classification Metrics.](https://dipesg.github.io/All-AI/markdown/2022/04/06/classi-metrics.html)
 - [Data Augmentation using Augmentor](https://dipesg.github.io/All-AI/2022/04/05/Augmentor.html)
-- [Step By Step Code Implementation of **Keras Tuner.**](https://dipesg.github.io/All-AI/2022/04/05/KerasTuner.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/05/VGG.html)
 - [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/04/05/Timeseriescovid19.html)
+- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/05/VGG.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
