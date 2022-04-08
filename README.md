@@ -35,7 +35,7 @@
 - [Random Forest Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/randomforest.html)
 - [Decision Tree Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/decisiontree.html)
 - [Gradient Boosting Regressor.](https://dipesg.github.io/All-AI/markdown/2022/04/07/GB.html)
-- [AdaBoost Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/AdaBoost.html)
+- [AdaBoost Regressor.](https://dipesg.github.io/All-AI/markdown/2022/04/07/AdaBoost.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
