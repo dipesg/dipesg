@@ -31,11 +31,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [XGBoost Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/xgb.html)
+- [Random Forest Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/randomforest.html)
 - [Interview Preparation of Decision Tree.](https://dipesg.github.io/All-AI/markdown/2022/04/07/decisiontree.html)
-- [Data Augmentation using Augmentor](https://dipesg.github.io/All-AI/2022/04/06/Augmentor.html)
-- [Step By Step Code Implementation of **Keras Tuner.**](https://dipesg.github.io/All-AI/2022/04/06/KerasTuner.html)
-- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/04/06/alexnetcode.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/06/VGG.html)
+- [Gradient Boosting Regressor.](https://dipesg.github.io/All-AI/markdown/2022/04/07/GB.html)
+- [AdaBoost Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/AdaBoost.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
