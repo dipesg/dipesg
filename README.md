@@ -33,7 +33,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [XGBoost Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/xgb.html)
 - [Random Forest Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/randomforest.html)
-- [Interview Preparation of Decision Tree.](https://dipesg.github.io/All-AI/markdown/2022/04/07/decisiontree.html)
+- [Decision Tree Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/decisiontree.html)
 - [Gradient Boosting Regressor.](https://dipesg.github.io/All-AI/markdown/2022/04/07/GB.html)
 - [AdaBoost Algorithm.](https://dipesg.github.io/All-AI/markdown/2022/04/07/AdaBoost.html)
 <!-- BLOG-POST-LIST:END -->
