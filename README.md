@@ -33,9 +33,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [What Is Forward And Backward Propagation?](https://dipesg.github.io/All-AI/markdown/2022/04/09/propagation.html)
 - [Artificial Neural Network.](https://dipesg.github.io/All-AI/markdown/2022/04/09/ann.html)
-- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/04/08/alexnetcode.html)
-- [Omicron Sentiment Analysis](https://dipesg.github.io/All-AI/2022/04/08/emotion.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/08/VGG.html)
+- [Omicron Sentiment Analysis](https://dipesg.github.io/All-AI/2022/04/09/emotion.html)
+- [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/04/09/alexnetcode.html)
+- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/09/VGG.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
