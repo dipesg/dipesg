@@ -31,11 +31,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [What Is Forward And Backward Propagation?](https://dipesg.github.io/All-AI/markdown/2022/04/09/propagation.html)
-- [Artificial Neural Network.](https://dipesg.github.io/All-AI/markdown/2022/04/09/ann.html)
-- [Omicron Sentiment Analysis](https://dipesg.github.io/All-AI/2022/04/09/emotion.html)
+- [What Is Forward And Backward Propagation?](https://dipesg.github.io/All-AI/deep%20learning/2022/04/09/propagation.html)
+- [Artificial Neural Network.](https://dipesg.github.io/All-AI/deep%20learning/2022/04/09/ann.html)
 - [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/04/09/alexnetcode.html)
 - [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/04/09/VGG.html)
+- [Predicting the total number of confirmed Covid cases Using Prophet Model.](https://dipesg.github.io/All-AI/2022/04/09/Timeseriescovid19.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
