@@ -6,7 +6,7 @@
 <h3 align="center">A passionate ML Engineer from Nepal.</h3>
 
 
-<img align="centre" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
+<img align="centre" alt="Coding" width="400" src="[https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nn_gumgum.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
