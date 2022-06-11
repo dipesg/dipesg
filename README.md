@@ -6,7 +6,7 @@
 <h3 align="center">A passionate ML Engineer from Nepal.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/media/55f903b73d522b0a4595f99a1f7a6882.gif">
+<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/media/55f903b73d522b0a4595f99a1f7a6882.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
