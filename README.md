@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm Dipesh Silwal</h1>
 <h3 align="center">A passionate ML Engineer from Nepal.</h3>
 
-
+![deep](https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif)
 <img align="centre" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipesg" alt="dipesg" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipesg" alt="dipesg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dipeshsilwal18" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshsilwal18?logo=twitter&style=for-the-badge" alt="dipeshsilwal18" /></a> </p>
+<p align="centre"> <a href="https://twitter.com/dipeshsilwal18" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshsilwal18?logo=twitter&style=for-the-badge" alt="dipeshsilwal18" /></a> </p>
 
 - 🔭 I’m currently working on **WareHouse Apparel Detector**
 
