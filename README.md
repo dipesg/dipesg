@@ -1,5 +1,4 @@
 ![ai](https://user-images.githubusercontent.com/75604769/173843308-383110f7-5f42-4591-9933-4a535b00f464.jpeg)
-![banner12](https://user-images.githubusercontent.com/75604769/154038909-48eccbad-f3a1-495d-a179-72b37fc1023c.gif)
 <img align="centre" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
 
 
