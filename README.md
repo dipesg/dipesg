@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif">
+<img align="right" alt="Coding"  src="https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif">
 
 
 <h1 align="center">Hi 👋, I'm Dipesh Silwal</h1>
