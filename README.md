@@ -1,13 +1,8 @@
-![ai](https://user-images.githubusercontent.com/75604769/173843308-383110f7-5f42-4591-9933-4a535b00f464.jpeg)
-<img align="centre" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif">
 
 
 <h1 align="center">Hi 👋, I'm Dipesh Silwal</h1>
 <h3 align="center">A passionate ML Engineer from Nepal.</h3>
-
-![deep](https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif)
-<img align="centre" alt="Coding" width="400" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
-
 
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
 
