@@ -30,10 +30,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Data Acquisition in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/22/data-acquisition.html)
+- [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/22/text-preprocessing.html)
 - [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/22/text-cleaning.html)
+- [Bag of Words](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/22/bag-of-words.html)
 - [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/06/22/alexnetcode.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/06/22/VGG.html)
-- [Data Augmentation using Augmentor](https://dipesg.github.io/All-AI/2022/06/22/Augmentor.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
