@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/23/word2vec.html)
 - [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/23/text-preprocessing.html)
 - [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/23/text-cleaning.html)
 - [Bag of Words](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/23/bag-of-words.html)
 - [Code Implementation of AlexNet](https://dipesg.github.io/All-AI/2022/06/23/alexnetcode.html)
-- [Code Implementation Of VGG-Net](https://dipesg.github.io/All-AI/2022/06/23/VGG.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
