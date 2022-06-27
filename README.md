@@ -33,7 +33,7 @@
 - [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/text-preprocessing.html)
 - [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/text-cleaning.html)
 - [SQL Table Operation Using PymySQL](https://dipesg.github.io/All-AI/sql/databases/2022/06/26/sql.html)
-- [RNN](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/rnn.html)
+- [Sequence to Sequence Model](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/seq2seq.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
