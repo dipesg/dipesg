@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/25/word2vec.html)
-- [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/25/text-preprocessing.html)
-- [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/25/text-cleaning.html)
-- [RNN](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/25/rnn.html)
-- [LSTM AND BI-DIRECTIONAL LSTM](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/25/lstm.html)
+- [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/word2vec.html)
+- [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/text-preprocessing.html)
+- [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/text-cleaning.html)
+- [SQL Table Operation Using PymySQL](https://dipesg.github.io/All-AI/sql/databases/2022/06/26/sql.html)
+- [RNN](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/06/26/rnn.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
