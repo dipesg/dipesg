@@ -32,8 +32,8 @@
 - [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/03/word2vec.html)
 - [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/03/text-preprocessing.html)
 - [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/03/text-cleaning.html)
+- [Neural Style Transfer Using Pretrained Model From Tensorflow Hub.](https://dipesg.github.io/All-AI/neural%20style%20transfer/2022/07/03/style-transfer.html)
 - [SQL Table Operation Using PymySQL](https://dipesg.github.io/All-AI/sql/databases/2022/07/03/sql.html)
-- [SQL Sorting and Joining Using Pymysql](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/03/sql-day2.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
