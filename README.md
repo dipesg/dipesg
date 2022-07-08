@@ -1,5 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
 
+
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75604769/177918236-8b4b5b99-3368-469b-a72c-d39cf2dafa71.gif">
+
+
+
 ### Hey 👋🏽, I'm ![Dipesh SIlwal](https://dipesg.github.io/All-AI/)
 <p>
     <a href="mailto:dipeshsilwal31@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
@@ -16,6 +22,7 @@ I am algorithm lover. This sprouted because I am mainly interested in how things
 Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which I thinks would pave a way to make the Deep Learning models better. 
 
 After from Computer Science Graduate, I started writing a blog based on Artificial Intelligence where I worked on multiple project and published them as a blog post so that everyone can learn for FREE. 
+
 
 - 🔭 I’m **Mathematics, Statistics and Data Lover**
 
