@@ -44,8 +44,116 @@
 <a href="/https://dipesg.github.io/all-ai/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dipesg.github.io/all-ai/feed.xml" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<br/>
+<center>
+<table>
+<tbody align="center">
+ <tr>
+   
+<td align="center" width="25%">
+<span><b><center>Python</center></b></span><br/> 
+<img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+   
+<td align="center" width="30%">
+<span><b><center>OpenCV</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>PyTorch</center></b></span><br/> 
+<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Notebook</center></b></span><br/>  
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
+</td>
+</tr>
+
+<tr> 
+<td align="center" width="25%">
+<span><b><center>Sklearn</center></b></span><br/> 
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>NumPy</center></b></span> <br/>
+<img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Pandas</center></b></span> <br/>
+<img height=75px src="https://cdn-icons-png.flaticon.com/512/6485/6485718.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Matplotlib</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="25%">
+<span><b><center>Tensorflow</center></b></span> <br/>
+<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
+</td> 
+
+<td align="center" width="25%">
+<span><b><center>Keras</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>MySQL</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
+</td>
+
+<td align="center" width="25%">
+<span><b><center>Linux</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/linux--v1.png"/>
+</td>
+
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="25%">
+<span><b><center>Git</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+    
+<td align="center" width="25%">
+<span><b><center>AWS</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/amazon-web-services.png"> 
+</td>
+    
+<td align="center" width="25%">
+<span><b><center>Docker</center></b></span> <br/>
+<img height=75px src="https://img.icons8.com/color/344/docker.png"> 
+</td>
+ 
+<td align="center" width="25%">
+<span><b><center>HTML</center></b></span> <br/>
+<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"> 
+</td>   
+</tr>
+ 
+<tr>
+<td align="center" width="25%">
+<span><b><center>CSS</center></b></span> <br/>
+<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipesg&show_icons=true&theme=radical)
 
