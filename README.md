@@ -1,13 +1,20 @@
-<img align="right" alt="Coding" width ="600" src="https://user-images.githubusercontent.com/75604769/173176820-bf0c23a3-1090-465c-9a3c-b7553fc4f053.gif">
-
-
-<h1 align="left">Hi 👋, I'm Dipesh Silwal</h1>
-<h3 align="left">A passionate ML Engineer from Nepal.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipesg&label=Profile%20views&color=0e75b6&style=flat" alt="dipesg" /> </p>
+### Hey 👋🏽, I'm ![Dipesh SIlwal](https://dipesg.github.io/All-AI/)
+<p>
+    <a href="mailto:dipeshsilwal31@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://twitter.com/DipeshSilwal18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/dipesh-silwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
+Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning, Computer Vision and Natural Language Processing Engineer👨‍💻.  Also, I'm Blogger 🙍🏽‍♂️ [ALL-AI](https://dipesg.github.io/All-AI/)👨‍💻. I have always had a passion for Programming. Python became my favorite language after using C, C++, SQL etc. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use my well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy to remain in **Solitude** and **Traveling.**
+<br><br>That’s a brief of who I am and What I am looking for!
 
-<p align="left"> <a href="https://twitter.com/dipeshsilwal18" target="blank"><img src="https://img.shields.io/twitter/follow/dipeshsilwal18?logo=twitter&style=for-the-badge" alt="dipeshsilwal18" /></a> </p>
+### A bit deeper about myself. 
+
+I am algorithm lover. This sprouted because I am mainly interested in how things work the way they work. For example: If you give me an algorithm and you say that this works for a particular problem- my question would be how does it work? What’s the idea behind it? Why not some other way? What are the pros and cons of it? What was the approach that is worse than this? This thinking made to me successful as a programmer till now and enhanced my interest in algorithms.
+
+Besides, this interest in reasoning made me to develop curiosity in understanding how Machine Learning and Deep Learning models actually work. What is the model learning at each step? I want to explore this BlackBox which I thinks would pave a way to make the Deep Learning models better. 
+
+After from Computer Science Graduate, I started writing a blog based on Artificial Intelligence where I worked on multiple project and published them as a blog post so that everyone can learn for FREE. 
 
 - 🔭 I’m currently working on **WareHouse Apparel Detector**
 
@@ -21,12 +28,15 @@
 
 - ⚡ Fun fact **Infinite is My Natural State**
 - :computer: **CODING CONVENTION THAT I FOLLOW:**
-  - **APPLY LOGGING FOR EACH AND EVERY PIPELINES**
-  - **USE EXCEPTION HANDLING FOR PROPERLY CATCHING AND HANDLING EXCEPTION IN CODE**
-  - **INSTEAD OF USING NOTEBOOK I PREFER OOPS PROGRAMMING**
-  - **STRICTLY FOLLOW NAMING CONVENTION**
-  - **MODULARIZATION IN CODE**
-
+  - APPLY LOGGING FOR EACH AND EVERY PIPELINES
+  - USE EXCEPTION HANDLING FOR PROPERLY CATCHING AND HANDLING EXCEPTION IN CODE
+  - INSTEAD OF USING NOTEBOOK I PREFER OOPS PROGRAMMING
+  - STRICTLY FOLLOW NAMING CONVENTION
+  - MODULARIZATION IN CODE
+  
+## 😜Here's a Joke for you:
+<img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/05/word2vec.html)
