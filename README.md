@@ -6,7 +6,7 @@
   <a href="https://twitter.com/DipeshSilwal18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/dipesh-silwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning, Computer Vision and Natural Language Processing Engineer👨‍💻.  Also, I'm Blogger 🙍🏽‍♂️ [ALL-AI](https://dipesg.github.io/All-AI/)👨‍💻. I have always had a passion for Programming. Python became my favorite language after using C, C++, SQL etc. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use my well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy to remain in **Solitude** and **Traveling.**
+Hi, I'm  a Computer Science Guy 🚀 from Nepal, currently, I'm a Machine Learning, Computer Vision and Natural Language Processing Engineer👨‍💻.  Also, I'm Blogger 🙍🏽‍♂️ [ALL-AI](https://dipesg.github.io/All-AI/)👨‍💻. I have always had a passion for Programming. Python became my favorite language after using C, C++, SQL etc. I have phenomenal time management skills and a strong user focus actively looking for a role where I may be able to use my well-honed skills to develop state-of-the-art scalable software solutions. Beside's programming, I enjoy **Solitude** and **Traveling.**
 <br><br>That’s a brief of who I am and What I am looking for!
 
 ### A bit deeper about myself. 
