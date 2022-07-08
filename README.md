@@ -41,8 +41,7 @@
 <a href="https://twitter.com/dipeshsilwal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipeshsilwal18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipesh-silwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipesh-silwal" height="30" width="40" /></a>
 <a href="https://medium.com/@dipeshsilwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dipeshsilwal" height="30" width="40" /></a>
-<a href="/https://dipesg.github.io/all-ai/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dipesg.github.io/all-ai/feed.xml" height="30" width="40" /></a>
-</p>
+
 
 
 
