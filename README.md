@@ -21,7 +21,7 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
 
 - 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2, YOLO-X, YOLO-R.**
 
-- 📝 I regularly write articles on [https://dipesg.github.io/All-AI/](https://dipesg.github.io/All-AI/)
+- 📝 I regularly write articles on [BLOG](https://dipesg.github.io/All-AI/)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, Data Science.**
 
