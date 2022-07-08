@@ -47,15 +47,6 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
 - [SQL Table Operation Using PymySQL](https://dipesg.github.io/All-AI/sql/databases/2022/07/05/sql.html)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dipeshsilwal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipeshsilwal18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dipesh-silwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipesh-silwal" height="30" width="40" /></a>
-<a href="https://medium.com/@dipeshsilwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dipeshsilwal" height="30" width="40" /></a>
-
-
-
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <br/>
 <center>
