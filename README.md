@@ -150,16 +150,9 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
 </td>
  
 <td align="center" width="25%">
-<span><b><center>HTML</center></b></span> <br/>
-<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png"> 
+<span><b><center>VS CODE</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> 
 </td>   
-</tr>
- 
-<tr>
-<td align="center" width="25%">
-<span><b><center>CSS</center></b></span> <br/>
-<img height=75px src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-css-logo-png-transparent-svg-vector-bie-supply-9.png"> 
-</td>
 </tr>
 
 </tbody>
