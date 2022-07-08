@@ -17,9 +17,9 @@ Besides, this interest in reasoning made me to develop curiosity in understandin
 
 After from Computer Science Graduate, I started writing a blog based on Artificial Intelligence where I worked on multiple project and published them as a blog post so that everyone can learn for FREE. 
 
-- 🔭 I’m currently working on **WareHouse Apparel Detector**
+- 🔭 I’m **Mathematics, Statistics and Data Lover**
 
-- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2.**
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision, Object Detection Framework => TFOD2.X, DETECTRON2, YOLO-X, YOLO-R.**
 
 - 📝 I regularly write articles on [https://dipesg.github.io/All-AI/](https://dipesg.github.io/All-AI/)
 
