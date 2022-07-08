@@ -27,7 +27,7 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
 
 - 📫 How to reach me **dipeshsilwal31@gmail.com**
 
-- ⚡ Fun fact **Infinite is My Natural State**
+- ⚡ Reality:-> **Infinite is My Natural State**
 - :computer: **CODING CONVENTION THAT I FOLLOW:**
   - APPLY LOGGING FOR EACH AND EVERY PIPELINES
   - USE EXCEPTION HANDLING FOR PROPERLY CATCHING AND HANDLING EXCEPTION IN CODE
