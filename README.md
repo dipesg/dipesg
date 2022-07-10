@@ -47,11 +47,11 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Object Detection Using YOLO-V4](https://dipesg.github.io/All-AI/object%20detection/2022/07/09/yolov4.html)
 - [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/09/word2vec.html)
 - [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/09/text-preprocessing.html)
 - [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/09/text-cleaning.html)
 - [Neural Style Transfer Using Pretrained Model From Tensorflow Hub.](https://dipesg.github.io/All-AI/neural%20style%20transfer/2022/07/09/style-transfer.html)
-- [SQL Table Operation Using PymySQL](https://dipesg.github.io/All-AI/sql/databases/2022/07/09/sql.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
