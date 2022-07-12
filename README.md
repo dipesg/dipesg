@@ -47,11 +47,11 @@ After from Computer Science Graduate, I started writing a blog based on Artifici
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Object Detection Using YOLO-V4](https://dipesg.github.io/All-AI/object%20detection/2022/07/10/yolov4.html)
-- [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/10/word2vec.html)
-- [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/10/text-preprocessing.html)
-- [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/10/text-cleaning.html)
-- [Neural Style Transfer Using Pretrained Model From Tensorflow Hub.](https://dipesg.github.io/All-AI/neural%20style%20transfer/2022/07/10/style-transfer.html)
+- [Object Detection Using YOLO-V4](https://dipesg.github.io/All-AI/object%20detection/2022/07/11/yolov4.html)
+- [Word2Vec](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/11/word2vec.html)
+- [Text Preprocessing in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/11/text-preprocessing.html)
+- [Text Cleaning in Natural Language Processing](https://dipesg.github.io/All-AI/natural%20language%20processing/2022/07/11/text-cleaning.html)
+- [Neural Style Transfer Using Pretrained Model From Tensorflow Hub.](https://dipesg.github.io/All-AI/neural%20style%20transfer/2022/07/11/style-transfer.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
